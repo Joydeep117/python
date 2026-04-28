@@ -37,7 +37,7 @@ project-name/
 ⚙️ Installation
 
 To run this project, I followed these steps:
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/joydeep117/python.git
 cd project-name
 pip install -r requirements.txt
 
